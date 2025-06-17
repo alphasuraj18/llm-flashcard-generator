@@ -59,7 +59,7 @@ Includes sample input in the `/samples` files
 - Multilingual support
 
 ## 📹 Demo 
-Demo.mp4 available in `/demo`.
+Screen FRecord.mp4 available in `/Screen FRecord.mp4`.
 
 ## 📝 License
 MIT
