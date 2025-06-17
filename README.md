@@ -37,16 +37,16 @@ pip install -r requirements.txt
 ## ▶️ How to Run Locally (Windows PowerShell)
 
 1. **Open Terminal (PowerShell)**
-2. 
-3. **Activate the virtual environment**
+2. **Activate the virtual environment**
    ```powershell
    .venv\Scripts\Activate.ps1
-4. **Navigate to the project directory**
-   cd "C:\Users\HP\OneDrive\Desktop\project\flashcard-generator-llm"
+3. **Navigate to the project directory**
+   cd  
    
-5. **Run the Streamlit app**
+4. **Run the Streamlit app**
    streamlit run app.py
 
+![Screenshot Of Output](https://github.com/user-attachments/assets/68da24c7-8e59-4a5d-8229-bcbfb0f9b7ac)
 
 ## 📄 Sample Output
 
