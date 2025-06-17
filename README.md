@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## 📄 Sample Output
 
-Includes sample input/output in the `/samples` folder.
+Includes sample input in the `/samples` files
 
 ## 🎯 Future Improvements
 
