@@ -1,5 +1,3 @@
-# llm-flashcard-generator
-Generate educational flashcards from PDF, Text content using LLMs and Streamlit.
 # 🧠 LLM-Powered Flashcard Generator
 
 This Streamlit-based app converts educational PDFs or raw text into grouped flashcards using OpenAI's GPT-3.5.
