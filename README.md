@@ -41,7 +41,7 @@ pip install -r requirements.txt
    ```powershell
    .venv\Scripts\Activate.ps1
 3. **Navigate to the project directory**
-   cd  
+     cd  
    
 4. **Run the Streamlit app**
    streamlit run app.py
