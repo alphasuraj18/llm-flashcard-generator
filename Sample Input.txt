@@ -1,0 +1,10 @@
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the chloroplasts of plant cells.
+
+The process involves the intake of carbon dioxide (CO₂) from the atmosphere and water (H₂O) from the soil. With the help of sunlight, plants convert these raw materials into glucose (C₆H₁₂O₆) and oxygen (O₂). The oxygen is released as a by-product.
+
+The overall equation for photosynthesis is:
+6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂
+
+Photosynthesis occurs in two stages: the light-dependent reactions and the Calvin cycle. The light-dependent reactions occur in the thylakoid membranes and produce ATP and NADPH. The Calvin cycle takes place in the stroma and uses ATP and NADPH to fix carbon into glucose.
+
+Photosynthesis is vital to life on Earth as it is the primary source of organic matter for almost all organisms and it is also the source of the oxygen we breathe.
