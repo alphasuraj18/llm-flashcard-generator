@@ -58,7 +58,7 @@ Includes sample input in the `/samples` files
 - Flashcard editing & difficulty levels
 - Multilingual support
 
-## 📹 Demo (Optional)
+## 📹 Demo 
 Demo.mp4 available in `/demo`.
 
 ## 📝 License
